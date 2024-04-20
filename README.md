@@ -2,6 +2,12 @@
 
 This repo shows how to train neural language models using [Pytorch example code](https://github.com/pytorch/examples/tree/master/word_language_model). Thanks to Emma van den Bold, the original author of these scripts. 
 
+# Students names and IDs:
+
+Giovanni Rocci (22-729-156)
+
+Siro Rosenau (22-711-840)
+
 # CHANGES MADE TO THE SCRIPTS FOR PART 1
 We used the Ubuntu terminal to run all the scripts except the install_packages.sh, because the folder "tools" would for some reason be created empty.
 We used powershell to run install_packages.sh.
@@ -21,6 +27,10 @@ We used powershell to run install_packages.sh.
   - On line 17 we changed python to python3
   - On line 18 we changed the directory name fromm grimm to frankenstein.
 
+# CHANGES MADE TO THE SCRIPTS FOR PART 2
+
+- generate.sh:
+  - Line 20 and 21: We changed the model to be used for the sample generation and we changed the output file name.
 
 
 # Requirements
